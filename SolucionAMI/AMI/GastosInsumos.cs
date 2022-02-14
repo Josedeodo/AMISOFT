@@ -9,6 +9,7 @@ namespace AMI
     class GastosInsumos
     {
         public Caso Caso;
+        public Factura Factura;
         private int id;
         private string nombreInsumo;
         private double costoInsumo;

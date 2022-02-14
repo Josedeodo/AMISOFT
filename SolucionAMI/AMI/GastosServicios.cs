@@ -10,6 +10,7 @@ namespace AMI
     {
         public Servicios Servicios;
         public Caso Caso;
+        public Factura Factura;
         private int id;
         
         public GastosServicios() { }
