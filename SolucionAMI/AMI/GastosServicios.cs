@@ -9,6 +9,7 @@ namespace AMI
     class GastosServicios
     {
         public Servicios Servicios;
+        public Caso Caso;
         private int id;
         
         public GastosServicios() { }

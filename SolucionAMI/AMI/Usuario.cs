@@ -8,6 +8,7 @@ namespace AMI
 {
     class Usuario : Persona
     {
+        public Rol Rol;
         private int id;
         private string password;      
 

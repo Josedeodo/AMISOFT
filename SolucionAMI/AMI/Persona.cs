@@ -14,10 +14,11 @@ namespace AMI
         private string fechaNacimiento;
         private string telefono;
         private string email;
+        private string direccion;
 
         public Persona() { }
 
-        public Persona(string numeroDocumento, string tipoDocumento, string nombre, string fechaNacimiento, string telefono, string email) 
+        public Persona(string numeroDocumento, string tipoDocumento, string nombre, string fechaNacimiento, string telefono, string email, string direccion) 
         {
             this.numeroDocumento = numeroDocumento;
             this.tipoDocumento = tipoDocumento;
@@ -25,6 +26,7 @@ namespace AMI
             this.fechaNacimiento = fechaNacimiento;
             this.telefono = telefono;
             this.email = email;
+            this.direccion = direccion;
         }             
 
         public string NumeroDocumento
@@ -62,5 +64,12 @@ namespace AMI
             get { return email; }
             set { email = value; }
         }
+
+        public string Direccion
+        {
+            get { return direccion; }
+            set { direccion = value; }
+        }
+
     }
 }

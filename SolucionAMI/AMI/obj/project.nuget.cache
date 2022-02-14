@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "J56XYr8FH7mgHJbelrvj0OEGEVqRp0uMvxLa4T3i3REBexyyzCepN3Gp/L0K1mBvgcz8zXyY14spZA9kM6f2zQ==",
+  "dgSpecHash": "jGTks2OS2lsMi8MXzWbMc/1zk+TzuJIrDZnFrVaVgonsuq69eO7vL1RalCpRNW8VwC2t6MT9BRj3/F6gqM2e7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\manue\\Desktop\\AMIsoft\\SolucionAMI\\AMI\\AMI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\laragon\\www\\.NET sena\\TRIMESTRE I\\josedeodo\\AMISOFT\\SolucionAMI\\AMI\\AMI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -9,6 +9,7 @@ namespace AMI
     class Caso
     {
         public Vehiculo Vehiculo;
+        public Cliente Cliente;
         private int id;
         private string diagnostico;
         private string estado;

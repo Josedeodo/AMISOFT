@@ -8,7 +8,7 @@ namespace AMI
 {
     class Rol
     {
-        public Usuario Usuario;
+        
         private int id;
         private string nombreRol;
         private string descripcion;

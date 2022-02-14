@@ -8,7 +8,6 @@ namespace AMI
 {
     class Servicios
     {
-        public Caso Caso;
         private int id;
         private string nombre;
         private string descripcion;
